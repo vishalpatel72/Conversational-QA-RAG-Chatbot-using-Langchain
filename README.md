@@ -1,1 +1,1 @@
-# Conversational-Q-A-Chatbot-using-Langchain
+# Conversational-QA-RAG-Chatbot-using-Langchain
