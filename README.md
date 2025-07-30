@@ -23,8 +23,8 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vishal_patel/RAG-Q-A-Conversation.git
-cd RAG-Q-A-Conversation
+https://github.com/vishalpatel72/Conversational-QA-RAG-Chatbot-using-Langchain.git
+cd Conversational-QA-RAG-Chatbot-using-Langchain
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
